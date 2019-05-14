@@ -1,3 +1,9 @@
+#######################################################################################
+#Script to fetch resource details from Oracle cloud console                           #
+#                                                                                     #
+#######################################################################################
+
+
 #!/bin/bash
 oci=/opt/oracle-cli/bin/
 compartmentid=%compartment-id%
